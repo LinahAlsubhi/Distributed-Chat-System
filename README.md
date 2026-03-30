@@ -2,7 +2,7 @@
 
 A real-time chat application built using Java Networking that allows multiple clients to communicate through a central server.
 
-#Key Features
+## Key Features
 
     - TCP Sockets: Established reliable communication between clients and the server.
 
@@ -13,4 +13,6 @@ A real-time chat application built using Java Networking that allows multiple cl
     - Error Handling: Managed network interruptions and stream closures gracefully.
 
     
-The report covers the Network Architecture, interaction diagrams between client and server, and the multithreading logic used to handle concurrent users. [View Project Report PDF](./Documentation.pdf)
+##  Project Structure
+- [Source Code](./src/): Implementation of Server, Client, and Multi-threading logic.
+- [Full Report](./Documentation/Group5_RTMReport_Fall2025.pdf): Technical documentation, architecture diagrams, and testing.
