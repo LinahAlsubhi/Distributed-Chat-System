@@ -4,7 +4,7 @@ A real-time chat application built using Java Networking that allows multiple cl
 
 ## Key Features
 
-    * TCP Sockets: Established reliable communication between clients and the server.
+    * **TCP Sockets**: Established reliable communication between clients and the server.
 
     * Multithreading: Used Thread and Runnable to handle multiple concurrent client connections without lag.
 
