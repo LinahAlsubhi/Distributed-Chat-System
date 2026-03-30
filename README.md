@@ -10,5 +10,5 @@ A real-time chat application built using Java Networking that allows multiple cl
 
     
 ##  Project Structure
-* [Source Code](./src/): Implementation of Server, Client, and Multi-threading logic.
-* [Full Report](./Documentation/Group5_RTMReport_Fall2025.pdf): Technical documentation, architecture diagrams, and testing.
+* [**Source Code**](./src/): Implementation of Server, Client, and Multi-threading logic.
+* [**Full Report**](./Documentation/Group5_RTMReport_Fall2025.pdf): Technical documentation, architecture diagrams, and testing.
